@@ -19,6 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://rinkesh-01.github.io/rinkesh-portfolio"
+,
   "eslintConfig": {
     "extends": [
       "react-app",
